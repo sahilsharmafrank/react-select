@@ -1,6 +1,6 @@
 {
-  "name": "react-select-patch",
-  "version": "1.0.0",
+  "name": "react-select",
+  "version": "2.4.3",
   "description": "A Select control built with and for ReactJS",
   "main": "lib/index.js",
   "module": "dist/react-select.esm.js",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahilsharmafrank/react-select.git"
+    "url": "https://github.com/JedWatson/react-select.git"
   },
   "dependencies": {
     "classnames": "^2.2.5",
